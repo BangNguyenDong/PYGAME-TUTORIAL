@@ -121,4 +121,6 @@ rect.x += speed
 ```
 
 Here, we simply add the `speed` value to the `x` position of the `Rect` object, which will move the rectangle to the right. We can then redraw the rectangle on the screen using the `pygame.draw.rect()`
-
+<br>
+Lesson2. Scrolling background
+- Document: https://www.pygame.org/project/5604
