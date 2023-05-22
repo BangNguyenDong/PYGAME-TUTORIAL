@@ -7,6 +7,9 @@ To learn more about Pygame, you can refer to the following resources:
 3. Pygame course on Coursera: https://www.coursera.org/learn/game-programming-python
 4. Pygame tutorials on RealPython: https://realpython.com/tutorials/pygame/
 5. Pygame video tutorials on YouTube: https://www.youtube.com/watch?v=UdsNBIzsmlI&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK
+6. https://github.com/kidscancode/pygame_tutorials
+7. https://github.com/techwithtim/Pygame-Tutorials
+8. https://github.com/russs123/pygame_tutorials
 
 Additionally, you can also search for information on Python forums such as Reddit or Stack Overflow to get help when encountering problems while using the Pygame library.
 
