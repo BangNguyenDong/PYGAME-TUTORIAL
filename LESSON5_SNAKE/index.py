@@ -70,7 +70,6 @@ def draw_window():
 		#Thêm tọa độ x, y vào list body_list
 		body_list.append([x, y])
 		#Vẽ thức ăn
-		pygame.draw.rect(screen, white, [food_x, food_y, 40, 40])
 	#Xóa tọa độ x, y của khối thân rắn đầu tiên để tạo hiệu ứng di chuyển
 	else:
 		#Xóa tọa độ x, y của khối thân rắn đầu tiên
