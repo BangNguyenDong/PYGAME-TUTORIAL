@@ -1,8 +1,10 @@
 1. Thay đổi kích thước cửa sổ màn hình của trò chơi thành 1000x600. Hãy chỉnh sửa mã để thực hiện thay đổi này. (2 điểm )
 
-2. Thêm âm thanh cho khi rắn chạm vào quả táo. Hãy tìm hiểu cách thêm âm thanh vào game và thực hiện yêu cầu này. (4 điểm)
+2. Thêm âm thanh cho khi rắn chạm vào quả táo. Hãy tìm hiểu cách thêm âm thanh vào game và thực hiện yêu cầu này. (2 điểm)
 
-3. Thêm tính năng lưu và hiển thị điểm cao nhất. Khi trò chơi kết thúc, lưu điểm số người chơi cao nhất vào một tệp tin. Hãy cập nhật màn hình hiển thị điểm số để hiển thị điểm cao nhất sau mỗi lần chơi. (4 điểm)
+3. Thêm âm thanh khi rắn chạm vào tường. (2 điểm)
+
+4. Thêm tính năng lưu và hiển thị điểm cao nhất. Khi trò chơi kết thúc, lưu điểm số người chơi cao nhất vào một tệp tin. Hãy cập nhật màn hình hiển thị điểm số để hiển thị điểm cao nhất sau mỗi lần chơi. (4 điểm)
 
 
 
