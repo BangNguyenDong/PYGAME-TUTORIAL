@@ -1,0 +1,13 @@
+1. Thay đổi kích thước cửa sổ màn hình của trò chơi thành 1000x600. Hãy chỉnh sửa mã để thực hiện thay đổi này.
+
+2. Thêm âm thanh cho khi bóng va chạm với thanh trượt người chơi và máy tính. Khi bóng va chạm với thanh trượt, phát âm thanh "ping". Hãy tìm hiểu cách thêm âm thanh vào game và thực hiện yêu cầu này.
+
+3. Tạo một màn hình khởi đầu trước khi trò chơi bắt đầu. Màn hình khởi đầu nên hiển thị thông tin về trò chơi và hướng dẫn người chơi. Người chơi phải nhấn phím bất kỳ để bắt đầu trò chơi. Hãy thêm màn hình khởi đầu và xử lý sự kiện người chơi nhấn phím để bắt đầu trò chơi.
+
+4. Thêm tính năng tăng tốc độ của bóng sau mỗi lần va chạm với thanh trượt. Mỗi lần bóng va chạm với thanh trượt, tốc độ di chuyển của bóng tăng lên một giá trị nhỏ. Hãy thêm tính năng tăng tốc độ và kiểm tra xem liệu bạn có thể đối phó với tốc độ di chuyển nhanh hơn của bóng hay không.
+
+5. Thêm tính năng lưu và hiển thị điểm cao nhất. Khi trò chơi kết thúc, lưu điểm số người chơi cao nhất vào một tệp tin. Hãy cập nhật màn hình hiển thị điểm số để hiển thị điểm cao nhất sau mỗi lần chơi.
+
+6. Tạo chế độ 2 người chơi, trong đó hai người chơi cùng điều khiển thanh trượt người chơi và thi đấu với nhau. Hãy sửa mã để cho phép điều khiển thanh trượt của người chơi thứ hai và xử lý va chạm và tính điểm cho cả hai người chơi.
+
+Nhớ rằng để hoàn thành các bài tập này, bạn cần tìm hiểu thêm về thư viện Pygame và các chức năng liên quan.
