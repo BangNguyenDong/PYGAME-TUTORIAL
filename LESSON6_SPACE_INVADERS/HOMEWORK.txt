@@ -1,0 +1,29 @@
+Dưới đây là yêu cầu chi tiết hơn kèm theo số điểm tương ứng cho từng câu hỏi:
+
+1. Tạo màn hình kết thúc game với chữ "Game Over" và một nút để quay lại màn hình bắt đầu. (2 điểm)
+
+Yêu cầu: 
+- Thiết kế một màn hình kết thúc game đẹp mắt với chữ "Game Over" được hiển thị ở trung tâm màn hình.
+- Thêm một nút bất kỳ có chức năng quay lại màn hình bắt đầu khi được nhấn.
+
+2. Tạo mạng sống cho người chơi, ban đầu là 3 mạng. Khi người chơi va chạm vào thiên thạch, mạng sống sẽ giảm 1. Nếu mạng sống về 0, hiển thị màn hình "Game Over". (2 điểm)
+
+Yêu cầu:
+- Xây dựng một biến để lưu số mạng sống của người chơi.
+- Khi người chơi va chạm vào thiên thạch, giảm 1 mạng sống.
+- Kiểm tra số mạng sống sau mỗi va chạm. Nếu số mạng sống về 0, hiển thị màn hình "Game Over".
+
+3. Tạo một biến để lưu điểm cao nhất của người chơi. Nếu điểm hiện tại vượt qua điểm cao nhất, cập nhật điểm cao nhất thành điểm hiện tại. (2 điểm)
+
+Yêu cầu:
+- Khởi tạo một biến để lưu điểm cao nhất, ban đầu có thể đặt là 0.
+- Kiểm tra điểm hiện tại sau mỗi lần ghi điểm. Nếu điểm hiện tại vượt qua điểm cao nhất, cập nhật điểm cao nhất thành điểm hiện tại.
+
+4. Khi người chơi đạt 10 điểm, tạo một con bot xuất hiện. Nếu người chơi bắn chết con bot, hiển thị màn hình "You Win". (4 điểm)
+
+Yêu cầu:
+- Đặt một biến để lưu điểm của người chơi.
+- Kiểm tra điểm sau mỗi lần ghi điểm. Khi điểm đạt 10, tạo một con bot xuất hiện.
+- Nếu người chơi bắn chết con bot, hiển thị màn hình "You Win" và dừng game.
+
+Bạn có thể sử dụng ngôn ngữ lập trình hoặc công cụ phát triển trò chơi để thực hiện các yêu cầu này và tính điểm tương ứng.
