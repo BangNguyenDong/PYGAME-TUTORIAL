@@ -1,0 +1,27 @@
+Bài tập 1:
+Thêm một màu sắc mới vào danh sách `colors` và đảm bảo rằng màu sắc mới được sử dụng trong trò chơi.
+
+Bài tập 2:
+Cải tiến hàm `show_figure()` để vẽ khung viền xung quanh hình ảnh của figure.
+
+Bài tập 3:
+Thay đổi kích thước màn hình và/hoặc kích thước ô trong trò chơi Tetris.
+
+Bài tập 4:
+Thêm hiệu ứng âm thanh cho các sự kiện như xoay figure, va chạm và xóa hàng.
+
+Bài tập 5:
+Tạo một chế độ 2 người chơi trong trò chơi Tetris, nơi hai người chơi cùng chơi trên cùng một màn hình và cố gắng đạt được điểm cao hơn.
+
+Bài tập 6:
+Tạo một hình ảnh nền đẹp cho trò chơi Tetris.
+
+Bài tập 7:
+Thay đổi cách tính điểm trong trò chơi. Ví dụ: thay vì tính điểm dựa trên số hàng xóa được, tính điểm dựa trên thời gian chơi hoặc số lượng figure đã xuất hiện.
+
+Bài tập 8:
+Tạo một menu trò chơi với các tùy chọn như bắt đầu, tạm dừng, chơi lại và thoát.
+
+Bài tập 9:
+Thêm tính năng lưu và tải lại trạng thái trò chơi, cho phép người chơi tiếp tục chơi từ một điểm đã lưu trước đó.
+
