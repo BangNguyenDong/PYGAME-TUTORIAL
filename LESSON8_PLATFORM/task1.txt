@@ -1,0 +1,10 @@
+Task 1: Thêm màn hình bắt đầu cho game, xử lý khi người chơi click chuột hoặc bấm phím thì game mới bắt đầu.
+Task 2: Thay đổi map khác để tăng độ khó.
+Task 3: Tạo âm thanh khi nhảy lên.
+Task 4: Vào thư mục "img", tìm ảnh "coin.png" và thêm 5 coin vào game.
+Task 5: Tạo điểm số cho game, khi người chơi chạm vào coin thì coin biến mất và tăng score cho người chơi, hiển thị score lên màn hình.
+Task 6: Vào thư mục "img", tìm ảnh "ghost.png" và thêm ghost vào màn hình game di chuyển liên tục theo chiều ngang.
+Task 7: Tạo biến "lives = 3", nếu người chơi chạm vào ghost thì mất 1 live và quay lại vị trí ban đầu. Hiển thị lives lên màn hình.
+Task 8: Nếu "lives = 0" thì hiện chữ "Game Over" và phát âm thanh "Game Over".
+Task 9: Thêm ảnh "exit.png" vào game và hiển thị lên màn hình.
+Task 10: Khi người chơi chạm vào "exit" thì hiển thị chữ "Win" và phát âm thanh "Music".
